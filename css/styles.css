@@ -1,0 +1,80 @@
+.TextCenter 
+{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+}
+.Center{
+text-align: center;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+
+}
+.BioText{
+text-align: center;
+font-size: x-large;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+
+
+}
+.Gamer{
+text-align: center;
+font-size: x-large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.Image1{
+    margin: auto;
+    padding:5px;
+    border: 10px ridge black;
+    background-color:purple;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+
+}
+.Border {
+    margin: auto;
+    padding: 5px;;
+    border: 10px ridge black;
+    background-color:#1a8bbc;
+    display: flex;
+    flex-direction: column;
+}
+.Image2{
+    margin: auto;
+    padding:5px;
+    border: 10px ridge black;
+    background-color:black;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+.TextColor{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: aquamarine;
+}
+.Bold{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:black;
+}
+.Bold2{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:black;
+}
+
+
+
